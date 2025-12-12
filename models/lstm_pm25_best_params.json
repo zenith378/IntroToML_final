@@ -1,0 +1,8 @@
+{
+    "lstm_units_1": 64,
+    "lstm_units_2": 128,
+    "use_second_layer": false,
+    "dropout_rate": 0.1,
+    "learning_rate": 0.00043034158746476595,
+    "batch_size": 64
+}
